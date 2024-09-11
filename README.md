@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In this blog post, we will walk through the creation of a feature-rich cloud storage website using React. The site, inspired by Fylo, offers sections such as Home, Features, How It Works, Testimonials, and a Footer. Along the way, we will discuss the structure, components, and styling used to build this fully responsive website.
+The Fylo frontend website showcases a sleek and user-centric design, emphasizing simplicity and ease of use for cloud storage and file management. This frontend is crafted to offer an engaging and intuitive user experience, providing essential functionalities such as file upload, sharing, and collaboration in a streamlined manner.
 
 
 ### Project Overview
