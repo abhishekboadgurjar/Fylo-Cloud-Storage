@@ -87,10 +87,7 @@ You can check out the live demo of this project [here](https://fylo-cloud-storag
 ### Screenshots
 
 ![Screenshot 2024-09-11 062811](https://github.com/user-attachments/assets/e8daee4f-1ea7-4433-940c-c068a9e9e016)
-![Screenshot 2024-09-11 062851](https://github.com/user-attachments/assets/bd05da09-3705-4ff0-84c2-fff004521bfd)
-![Screenshot 2024-09-11 062906](https://github.com/user-attachments/assets/fcd1e936-8293-4ba2-a557-131c1c14fcf7)
-![Screenshot 2024-09-11 062918](https://github.com/user-attachments/assets/6132341c-a592-44d8-9285-484ec9a64b2d)
-![Screenshot 2024-09-11 062928](https://github.com/user-attachments/assets/3efed8d7-bcca-4cbb-a138-90a078d98fc7)
+
 
 
 ### Conclusion
