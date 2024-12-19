@@ -63,7 +63,7 @@ fylo-cloud-storage-website/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/abhishekgurjar-in/fylo-cloud-storage.git
+   git clone https://github.com/abhishekboadgurjar/fylo-cloud-storage.git
    ```
 
 2. **Install dependencies**:
@@ -101,4 +101,4 @@ This project is inspired by the Fylo cloud storage service design.
 
 ### Author
 
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
